@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Glassmorphism effect */
+.navbar {
+  background: rgba(255, 255, 255, 0.1); /* White background with opacity */
+  backdrop-filter: blur(10px); /* Apply the blur effect */
+  border-radius: 10px; /* Optional: add rounded corners */
+  border: 1px solid rgba(255, 255, 255, 0.2); /* Optional: add border */
+}
