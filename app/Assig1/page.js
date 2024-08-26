@@ -1,5 +1,5 @@
-import React from "react";
 
+import React from "react";
 function Assig1() {
     return (
         <div className="min-h-screen w-full">
@@ -80,9 +80,9 @@ function Assig1() {
             <div className="border-b-2 border-black w-full"></div>
             <h1 className="text-2xl">PART-B</h1>
             <p className="text-lg">
-                <p className="text-2xl font-bold">
-                    Database System Development Lifecycle (DSDLC)
-                </p>{" "}
+                
+            <span className="text-2xl font-bold">Database System Development Lifecycle (DSDLC)?</span>      
+                
                 <br />
                 The Database System Development Lifecycle (DSDLC) is a
                 structured approach to building and maintaining database
@@ -477,9 +477,12 @@ function Assig1() {
                         </ul>
                     </li>
                 </ol>
-                <p>By using the EER model, we can effectively represent complex relationships and data structures in a university database, ensuring accurate and efficient data managemen</p>
+                <div>
+                    By using the EER model, we can effectively represent complex
+                    relationships and data structures in a university database,
+                    ensuring accurate and efficient data managemen
+                </div>
             </div>
-
         </div>
     );
 }
