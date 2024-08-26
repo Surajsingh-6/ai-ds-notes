@@ -1,4 +1,3 @@
-
 import React from "react";
 function Assig1() {
     return (
@@ -7,7 +6,7 @@ function Assig1() {
             <h4 className="text-lg">Part A</h4>
             <h2 className="text-2xl font-bold">1. Define DBMS:</h2>
             <p className="text-lg">
-                DBMS stands for Database Management System. Its a software
+                DBMS stands for Database Management System. It&#39;s a software
                 system that allows users to define, create, maintain, and
                 control access to databases. It ensures data integrity,
                 security, and efficient access through various data manipulation
@@ -480,7 +479,7 @@ function Assig1() {
                 <div>
                     By using the EER model, we can effectively represent complex
                     relationships and data structures in a university database,
-                    ensuring accurate and efficient data managemen
+                    ensuring accurate and efficient data management.
                 </div>
             </div>
         </div>
