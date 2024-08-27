@@ -1,5 +1,12 @@
 import React from "react";
+
+export const metadata = {
+    title: "Database Assignment 1",
+    description: "Database Assignment 1 short answers",
+};
+
 function Assig1() {
+    
     return (
         <div className="min-h-screen w-full">
             <h5 className="text-xl">Assignment 1: Database</h5>
